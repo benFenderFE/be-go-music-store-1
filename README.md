@@ -1,7 +1,3 @@
-# be-go-music-store-1
-
-be-go-music-store-1
-
 ## Overview
 
 โปรเจกต์ **be-go-music-store-1** เป็นแอปพลิเคชันสำหรับการจัดการสินค้าที่ขายในร้านขายเครื่องดนตรี (Music Store) โดยสามารถทำการ **Create**, **Update**, **Remove**, และ **Read** รายการสินค้าได้
