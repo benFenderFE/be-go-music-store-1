@@ -19,7 +19,7 @@ func ConnectDatabase() {
 	}
 
 	DB = db
-	DB.AutoMigrate(&models.Product{}) // สร้าง table อัตโนมัติ
+	DB.AutoMigrate(&models.Product{})
 
 	SeedMockData()
 }
