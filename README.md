@@ -19,7 +19,6 @@
 - **Gin**: Web framework สำหรับ Go
 - **GORM**: ORM (Object-Relational Mapping) สำหรับการจัดการฐานข้อมูล
 - **PostgreSQL**: ฐานข้อมูลที่ใช้เก็บข้อมูลสินค้า
-- **Docker** (optional): สำหรับการ deploy โปรเจกต์ในสภาพแวดล้อมที่แยกจากเครื่องหลัก
 
 ## How to Run the Project Locally
 
