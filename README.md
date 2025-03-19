@@ -37,9 +37,9 @@ go mod tidy
 ### 3. Set up Environment Variables
 ```bash
 PORT=8080
-DB_HOST=postgres.railway.internal
+DB_HOST=
 DB_USER=postgres
-DB_PASSWORD=SKdpzWKInBFBCOlSMksMJYHQWZsJIQfY
+DB_PASSWORD=
 DB_NAME=music_store
 DB_PORT=5432
 ````
