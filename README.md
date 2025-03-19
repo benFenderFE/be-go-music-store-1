@@ -32,11 +32,12 @@ be-go-music-store-1
 ````bash
 git clone https://github.com/your-username/be-go-music-store-1.git
 cd be-go-music-store-1
-
+````
 
 ### 2. Install Dependencies
 ```bash
 go mod tidy
+````
 
 ### 3. Set up Environment Variables
 ```bash
@@ -46,11 +47,12 @@ DB_USER=postgres
 DB_PASSWORD=SKdpzWKInBFBCOlSMksMJYHQWZsJIQfY
 DB_NAME=music_store
 DB_PORT=5432
+````
 
 ### 4. Run the Application
 ```bash
 go run main.go
-
+````
 
 ### 5. Testing the Endpoints
 คุณสามารถทดสอบ API ของโปรเจกต์ได้โดยการใช้ Postman หรือ cURL เพื่อเรียกดู endpoints ต่าง ๆ:
