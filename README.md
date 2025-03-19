@@ -57,7 +57,14 @@ go run main.go
 ### 5. Testing the Endpoints
 คุณสามารถทดสอบ API ของโปรเจกต์ได้โดยการใช้ Postman หรือ cURL เพื่อเรียกดู endpoints ต่าง ๆ:
 
+```bash
 GET /products - ดึงรายการสินค้าทั้งหมด
+
 POST /admin/products - เพิ่มสินค้าใหม่
+
 PUT /admin/products/:id - อัปเดตข้อมูลสินค้าตาม ID
+
 DELETE /admin/products/:id - ลบสินค้าตาม ID
+````
+
+
